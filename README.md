@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Read Me
+
+Test Driven Development (TDD) for elements, text or contain in some element, button, click function, value, etc 
+
 ## Available Scripts
 
 In the project directory, you can run:
